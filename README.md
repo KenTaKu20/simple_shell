@@ -2,7 +2,7 @@
 
 ```By: Julien Barbier
 Weight: 10
-team: mohamed wafi, fatima zahra Kuirse
+team: ayoub sanabi , abdelwahed chatraoui
 ```
 
 ## General
